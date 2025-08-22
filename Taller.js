@@ -55,8 +55,8 @@ console.log("--------------Conversión de Tipos (Implícita y Explícita)-------
 //Muestra el resultado de numero1 + numero2. ¿Qué sucedió?
 //Muestra el resultado de numero1 * numero2. ¿Qué sucedió ahora?
 
-let numero1 = 7;
-let numero2 = "3";
+let numero1 = 10;
+let numero2 = "5";
 console.log("numero1 + numero2:", numero1 + numero2); // concatenación
 console.log("numero1 * numero2:", numero1 * numero2); // multiplicación numérica
 
