@@ -203,7 +203,7 @@ class Animal {
         return `Hola, soy ${this.nombre}`;
     }
 }
-let animal1 = new Animal("Firulais");
+let animal1 = new Animal("Jhon Jairo");
 console.log(animal1.saludar());
 
 //Ejercicio 8.3 (Herencia de Clases):
